@@ -1,1 +1,2 @@
 # Laptop_Casestudy_Tableau
+This repository contains a Tableau dashboard created for a case study on laptop sales and performance analysis. The dashboard provides comprehensive insights into various aspects of laptop sales, including sales trends, performance metrics, customer demographics, and market segmentation. The goal is to leverage data visualization to facilitate better decision-making and strategy formulation.
